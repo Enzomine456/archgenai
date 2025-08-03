@@ -1,0 +1,47 @@
+# --- Web e servidor ---
+flask
+flask-cors
+gunicorn
+python-multipart
+requests
+werkzeug
+
+# --- Manipulação de imagens e arquivos ---
+pillow
+numpy
+opencv-python
+
+# --- IA e modelos generativos (caso use) ---
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+scipy
+triton
+
+# --- Modelos 3D e geometria (se necessário) ---
+trimesh
+scikit-image
+PyMCubes
+matplotlib
+pythreejs
+
+# --- Upload e conversão de arquivos ---
+python-dotenv
+tqdm
+
+# --- Utilitários e segurança ---
+uvicorn
+fastapi
+email-validator
+
+# --- Compressão e arquivos 3D ---
+pygltflib
+pyassimp
+pycollada
+
+# --- Ambiente e aceleração (opcional) ---
+numba
+scikit-learn
+onnxruntime
